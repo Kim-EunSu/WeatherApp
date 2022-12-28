@@ -35,6 +35,7 @@ footer, header, hgroup, main, menu, nav, section {
 }
 body {
   line-height: 1;
+
 }
 menu, ol, ul {
   list-style: none;
@@ -56,7 +57,7 @@ table {
 }
 body {
   font-weight: 300;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Lato', sans-serif;
   color:black;
   line-height: 1.2;
   
